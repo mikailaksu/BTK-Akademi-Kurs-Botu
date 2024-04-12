@@ -1,0 +1,2 @@
+# BTK-Akademi-Kurs-Botu
+BTK VİDEOLARINI OTOMATİK İZLER.
